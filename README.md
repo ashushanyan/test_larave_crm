@@ -33,5 +33,5 @@ To run this project locally, follow these steps:
 6. Start the Laravel development server:
 7. Access the application in your web browser at `http://localhost:8000`
 
-## Action
+## Actior
 - Ashot Shushanyan
